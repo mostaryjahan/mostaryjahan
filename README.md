@@ -1,12 +1,17 @@
 ![](https://i.postimg.cc/QCH8qV7R/2.png)
-### Hi there 👋, Hi, I am Moatary Jahan
+### Hi, I am Moatary Jahan
 
-I am a passionate web developer with React, JavaScript, and Node.js expertise.
+#### About Me:
+I am a web developer who is very passionate about web development. I'm excited to work on innovative projects that make a difference and to connect with like-minded professionals in the industry. I love to explore and learn new technologies. I thrive on solving complex problems and bringing ideas to life through code.
+My current focus is on developing efficient and user-friendly web applications using React, JavaScript, and Node.js.
 
-Skills:  HTML / CSS / JS / REACT
+#### Skills:  HTML / CSS / JS / REACT
+  ![React](https://img.icons8.com/color/48/000000/react-native.png)
 
-- 🔭 I’m currently working on a project 
-- 📫 How to reach me: mostaryjahan01@gmail.com 
+
+#### Current overview:
+##### 🔭 I’m currently working on a project 
+##### 📫 How to reach me: mostaryjahan01@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mostaryjahan)  
