@@ -4,6 +4,7 @@
 **mostaryjahan/mostaryjahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
+![Web Development Banner](https://via.placeholder.com/1200x400?text=Web+Development+Banner)
 
 
 Here are some ideas to get you started:
