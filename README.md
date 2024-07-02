@@ -1,8 +1,6 @@
 ![](https://i.postimg.cc/90GgRHXs/2.png)
 
 ### Hi, I am Moatary Jahan
-
-#### About Me:
 I am a web developer who is very passionate about web development. I'm excited to work on innovative projects that make a difference and to connect with like-minded professionals in the industry. I love to explore and learn new technologies. I thrive on solving complex problems and bringing ideas to life through code.
 My current focus is on developing efficient and user-friendly web applications using React, JavaScript, and Node.js.
 
