@@ -20,5 +20,7 @@ My current focus is on developing efficient and user-friendly web applications u
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostaryjahan)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mostaryjahan&show_icons=true&count_private=true)  
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mostaryjahan)  
 
