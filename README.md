@@ -12,7 +12,7 @@ My current focus is on developing efficient and user-friendly web applications u
 
 
 #### Current overview:
-##### 🔭 I’m currently working on a project 
+##### 🔭 I’m currently learning TypeScript
 ##### 📫 How to reach me: mostaryjahan01@gmail.com 
 
 
