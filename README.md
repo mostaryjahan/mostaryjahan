@@ -1,12 +1,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Mostary Jahan</h1>
-<h6 align="center">A Web Developer exploring new tech, solving problems, and crafting experiences.</h6>
+<p align="center">A Web Developer exploring new tech, solving problems, and crafting experiences.</p>
 
-
-🌱 I’m currently learning **MySql, PostgreSql**
-👨‍💻 All of my projects are available at [https://mostary-jahan.vercel.app/](https://mostary-jahan.vercel.app)
-📫 How to reach me **mostaryjahan01@gmail.com**
+## About Me:
+- 🌱 I’m currently learning **MySql, PostgreSql**
+- 👨‍💻 All of my projects are available at [https://mostary-jahan.vercel.app/](https://mostary-jahan.vercel.app)
+- 📫 How to reach me **mostaryjahan01@gmail.com**
 
 
 ## 🌐 Socials:
