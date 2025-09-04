@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mostary Jahan</h1>
-<p align="center">A Web Developer exploring new tech, solving problems, and crafting experiences.</p>
+<h6 align="center">A Full-Stack Developer passionate about building scalable applications and solving real-world problems.</h6>
 
 ## About Me:
 I’m a **Full-Stack Developer** with experience in building dynamic and scalable web applications. I have completed an **internship** and am currently working as a **Junior Backend Developer**, where I focus on developing robust APIs, managing databases, and ensuring system performance.  
