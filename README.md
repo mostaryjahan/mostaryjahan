@@ -4,9 +4,7 @@
 <h6 align="center">A Full-Stack Developer passionate about building scalable applications and solving real-world problems.</h6>
 
 ## About Me:
-I’m a **Full-Stack Developer** with experience in building dynamic and scalable web applications. I have completed an **internship** and am currently working as a **Junior Backend Developer**, where I focus on developing robust APIs, managing databases, and ensuring system performance.  
-
-I enjoy solving problems, writing clean and efficient code, and continuously learning new technologies to improve my craft. At present, I’m deepening my knowledge in **databases and system design** to strengthen my ability to build complex and high-performing applications.  
+I’m a **Full-Stack Developer** with experience in building dynamic and scalable web applications. I have completed an **internship** and am currently working as a **Junior Backend Developer**, where I focus on developing robust APIs, managing databases, and ensuring system performance. I enjoy solving problems, writing clean and efficient code, and continuously learning new technologies to improve my craft. At present, I’m deepening my knowledge in **databases and system design** to strengthen my ability to build complex and high-performing applications.  
 
 My ultimate goal is to contribute to impactful projects, collaborate with great teams, and continuously improve as a developer.  
 
