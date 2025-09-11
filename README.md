@@ -4,12 +4,12 @@
 <h6 align="center">A Full-Stack Developer passionate about building scalable applications and solving real-world problems.</h6>
 
 ## About Me:
-I’m a **Full-Stack Developer** with experience in building dynamic and scalable web applications. I have completed an **internship** and am currently working as a **Junior Backend Developer**, where I focus on developing robust APIs, managing databases, and ensuring system performance. I enjoy solving problems, writing clean and efficient code, and continuously learning new technologies to improve my craft. At present, I’m deepening my knowledge in **databases and system design** to strengthen my ability to build complex and high-performing applications.  
+I am a Full-Stack Developer with a strong focus on building practical and scalable web applications. During my internship, I gained hands-on experience by working on real-world projects, and now, as a **Junior Backend Developer**, where I work on developing robust APIs, managing databases, and improving system performance.
 
-My ultimate goal is to contribute to impactful projects, collaborate with great teams, and continuously improve as a developer.  
+I enjoy contributing to projects that solve real problems and give me the chance to grow alongside other developers. Recently, I’ve been interested in strengthening my knowledge of databases, especially MySQL and PostgreSQL, to deliver more reliable backend solutions.  
 
 - 🌱 I’m currently learning **MySql, PostgreSql**
-- 👨‍💻 All of my projects are available at [https://mostary-jahan.vercel.app/](https://mostary-jahan.vercel.app)
+- 👨‍💻 All of my projects are available at [https://mostary-jahan.vercel.app](https://mostary-jahan.vercel.app)
 - 📫 How to reach me **mostaryjahan01@gmail.com**
 
 
