@@ -4,9 +4,7 @@
 <h6 align="center">A Full-Stack Developer passionate about building scalable applications and solving real-world problems.</h6>
 
 ## About Me:
-I am a Full-Stack Developer with practical experience in building web applications. During my internship, I worked on real projects that gave me experience in both frontend and backend development. Currently, as a **Junior Backend Developer**, I focus on creating APIs, managing databases, and ensuring systems run efficiently. I enjoy seeing the results of my work and how it benefits users.
-
-I like taking on challenges that help me grow and learn from other developers. I also enjoy contributing to meaningful projects and have recently been focusing on databases like MySQL and PostgreSQL to make backend systems more reliable.
+I am a Full-Stack Developer with practical experience in building web applications. During my internship, I worked on real projects that gave me experience in both frontend and backend development. Currently, as a **Junior Backend Developer**, I focus on creating APIs, managing databases, and ensuring systems run efficiently. I enjoy seeing the results of my work and how it benefits users. I like taking on challenges that help me grow and learn from other developers. I also enjoy contributing to meaningful projects and have recently been focusing on databases like MySQL and PostgreSQL to make backend systems more reliable.
 
 My goal is to work on projects that solve real problems, collaborate with other developers, and keep improving my skills while building useful and dependable web applications.
 
