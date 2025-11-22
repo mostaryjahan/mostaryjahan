@@ -8,8 +8,9 @@ I am a Full-Stack Developer with practical experience in building web applicatio
 
 My goal is to work on projects that solve real problems, collaborate with other developers, and keep improving my skills while building useful and dependable web applications.
 
-- 🌱 I’m currently learning **MySql, PostgreSql**
-- 👨‍💻 All of my projects are available at [https://mostary-jahan.vercel.app](https://mostary-jahan.vercel.app)
+- 🌱 I’m currently learning **Playwright** for end-to-end testing
+- 🔭 I’m currently working on MERN stack projects
+- 👨‍💻 You can find all my projects here [https://mostary-jahan.vercel.app](https://mostary-jahan.vercel.app)
 - 📫 How to reach me **mostaryjahan01@gmail.com**
 
 
@@ -24,5 +25,5 @@ My goal is to work on projects that solve real problems, collaborate with other 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mostaryjahan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-[![](https://visitcount.itsvg.in/api?id=mostaryjahan&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=mostaryjahan)
 
