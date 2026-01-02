@@ -8,7 +8,7 @@ I am a Full-Stack Developer with practical experience in building web applicatio
 
 My goal is to work on projects that solve real problems, collaborate with other developers, and keep improving my skills while building useful and dependable web applications.
 
-- 🌱 I’m currently learning **Playwright** for end-to-end testing
+- 🌱 I’m currently learning **Playwright** for end-to-end testing and **Docker**
 - 🔭 I’m currently working on full stack projects
 - 👨‍💻 You can find all my projects here [https://mostary-jahan.vercel.app](https://mostary-jahan.vercel.app)
 - 📫 How to reach me **mostaryjahan01@gmail.com**
